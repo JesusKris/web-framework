@@ -22,6 +22,8 @@ It consists of:
 2. source: source of the framework
 3. TodoMVC: semi-official implementation of [TodoMVC](https://todomvc.com/) using this framework
 
+  **NB! Different source control platform was used hence no commit history.**
+
 
 ## Features
 - **Virtual DOM** - Mist.js makes use of the virtual DOM. The changes are not straight made to the DOM, instead a replica of the DOM is created which is present in the form of data structures. Whenever changes are made, they are made in data structures and then compared to the original data structure. The final changes are then updated to the real DOM which makes it very lightweight.
