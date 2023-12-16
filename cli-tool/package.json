@@ -1,0 +1,16 @@
+{
+    "name": "Mist",
+    "version": "1.0.0",
+    "description": "mini-framework made by #",
+    "scripts": {
+      "cli":"chmod +x ./cli-tool.sh && ./cli-tool.sh"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://01.kood.tech/git/nimi25820/mini-framework.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
